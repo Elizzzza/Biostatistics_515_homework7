@@ -1,1 +1,4 @@
-# Biostatistics_515_homework7
+# BIOST 515/518: Homework 7
+#### Instructor:  Amy Willis
+
+## Instructions
