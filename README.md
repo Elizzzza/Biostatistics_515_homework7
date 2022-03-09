@@ -22,12 +22,12 @@ A key purpose of this homework (and all homeworks) is to work on Learning Goal #
 In the 1970’s, the Veterans Administration Cooperative Urological Research Group conducted a clinical trial to investigate various treatments to prevent the recurrence of bladder cancer. In this assignment, we will use the study data to compare the distribution of time to first cancer recurrence for patients treated with thiotepa, a chemotherapy drug, compared to a placebo. All patients had superficial bladder tumors when they entered the trial, which were removed transurethrally and patients were randomly assigned to a treatment arm. The time to first recurrence data for participants enrolled in either the placebo or thiotepa arms are available on the Canvas course website in the file thiotepa.csv.
 
 The variables in this dataset are as follows:
-•***id***: A unique patient identifier
-•***rx***: Treatment arm. 1=placebo, 2=thiotepa.
-•***number***: Initial number of tumours (8 indicates “8 or more tumors”)
-•***size***: size of largest initial tumour (in centimetres)
-•***stop***: time of first tumor recurrence or time of censoring event
-•***event***: an indicator for a relapse event. 1=relapse, 0=censoring.
+- ***id***: A unique patient identifier
+- ***rx***: Treatment arm. 1=placebo, 2=thiotepa.
+- ***number***: Initial number of tumours (8 indicates “8 or more tumors”)
+- ***size***: size of largest initial tumour (in centimetres)
+- ***stop***: time of first tumor recurrence or time of censoring event
+- ***event***: an indicator for a relapse event. 1=relapse, 0=censoring.
 
 ## Questions
 
