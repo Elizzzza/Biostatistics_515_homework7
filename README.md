@@ -1,25 +1,12 @@
-# BIOST 515/518: Homework 7
+# Survival anaylsis on time to first cancer recurrence for patients treated with thiotepa compared to a placebo
+#### BIOST 515/518 Assignment 7
 #### Instructor:  Amy Willis
-
-## Instructions
-
-Submit your responses to the below questions as a single pdf file to Canvas. As in previous homeworks, your
-responses should have two sections:
-
-1. “Responses”, where you respond to the questions, using figures and tables where appropriate.
-2. “Code”, an appendix containing code used to run your analyses and support your responses.
-
-You are welcome to use the homework submission template (Files → Homeworks → submission-template.Rmd) to prepare your responses, but this is not mandatory. Please note that credit will not be given for code and raw software output. Instead, you should use software to run analyses and prepare tables, figures, and/or
-other summaries of results as appropriate.
-
-Please thoughtfully organize your homework and answer in full sentences using professional, scientific writing. Tables and numeric information should be appropriate for inclusion in a scientific report, with appropriate rounding, and figures should be polished (e.g., with axes labelled and legends included). Please review the
-published homeworks keys for both content and style.
-
-A key purpose of this homework (and all homeworks) is to work on Learning Goal #4: Practice explaining our models and their interpretations to both statistical and non-statistical audiences, so please use this opportunity to practice communicating clearly and justifying your scientific and statistical work.
 
 ## Background
 
-In the 1970’s, the Veterans Administration Cooperative Urological Research Group conducted a clinical trial to investigate various treatments to prevent the recurrence of bladder cancer. In this assignment, we will use the study data to compare the distribution of time to first cancer recurrence for patients treated with thiotepa, a chemotherapy drug, compared to a placebo. All patients had superficial bladder tumors when they entered the trial, which were removed transurethrally and patients were randomly assigned to a treatment arm. The time to first recurrence data for participants enrolled in either the placebo or thiotepa arms are available on the Canvas course website in the file thiotepa.csv.
+In the 1970’s, the Veterans Administration Cooperative Urological Research Group conducted a clinical trial to investigate various treatments to prevent the recurrence of bladder cancer. In this assignment, we will use the study data to compare the distribution of time to first cancer recurrence for patients treated with thiotepa, a chemotherapy drug, compared to a placebo. All patients had superficial bladder tumors when they entered the trial, which were removed transurethrally and patients were randomly assigned to a treatment arm. The time to first recurrence data for participants enrolled in either the placebo or thiotepa arms are available in the file thiotepa.csv.
+
+## Dataset
 
 The variables in this dataset are as follows:
 - ***id***: A unique patient identifier
